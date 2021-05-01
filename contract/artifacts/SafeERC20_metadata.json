@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ParticlesCrowdsale.sol": "SafeERC20"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ParticlesCrowdsale.sol": {
+			"keccak256": "0x464e9f83c3742ab64475712a593bd0e59ae995d51c9c77d29f4161f5a0b2a75d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://221f0a33f0d3b752fe5b90c2c3a72610541654f4f3a17e10fdaa90ac8d5db750",
+				"dweb:/ipfs/QmSzvzzALpq4V2jTHzdVQB1AnYjVCxZkS5gPApeoSHhgY5"
+			]
+		}
+	},
+	"version": 1
+}
